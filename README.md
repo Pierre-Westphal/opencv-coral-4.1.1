@@ -4,6 +4,8 @@ Compilation Opencv for coral 4.1.1 + dependencies
 
 You need only to clone the repository and launch the shell script
 
+cd opencv-coral-4.1.1
+chmod 755 init.sh
 bash init.sh
 
 I took for exemple an git repository and an article for make this repository
