@@ -1,4 +1,4 @@
-### opencv-coral-4.1.1
+# opencv-coral-4.1.1
 
 ## General Informations
 Compilation Opencv for coral 4.1.1 + dependencies
@@ -13,7 +13,6 @@ $chmod 755 init.sh
 $bash init.sh
 ```
 ## Sources
-
 I took as exemple an git repository and an article for make this repository
 ```
 https://github.com/pjalusic/opencv4.1.1-for-google-coral
